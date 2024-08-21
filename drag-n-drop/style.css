@@ -21,14 +21,16 @@ body {
 }
 
 .fill {
-  background-image: url('https://source.unsplash.com/random/150x150');
+  background-color: black;
+  border: solid 5px #e41515;
   height: 145px;
   width: 145px;
   cursor: pointer;
 }
 
 .hold {
-  border: solid 5px #ccc;
+  background-color: black;
+  border: solid 5px #e41515;
 }
 
 .hovered {
